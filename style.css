@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    background-color: rgb(159, 255, 223);
+    text-align: center;
+
+}
+.header {
+    position: fixed;
+}
+h1 {
+    margin: 0 auto 0 auto;
+    display: inline-block;
+    font-family: Sacramento, cursive;
+    font-size: 5em;
+}
+.h2{
+    font-family: serif
+}
+.p1 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+.profile-pic {
+    margin: 0 auto 0 auto;
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    right: 300px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    top: 70px;
+    left: 300px;
+    display: block;
+}
+.logo{
+    width: 50px;height: 50px;
+}
+.button{
+    width: 20px;height: 20px;
+}
+
+.top-container {
+    padding-top: 100px;
+}
+
+.middle-container {}
+
+.about {
+    
+    padding: 10px;
+    text-align: center;
+}
+.profile{
+    position: relative;
+}
+.skill-pic{
+    width: 80px;height: 80px;
+}
+
